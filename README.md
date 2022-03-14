@@ -1,0 +1,2 @@
+# go-package
+Package Briefly.

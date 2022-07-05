@@ -8,3 +8,4 @@ func ReplFunc(s string) string {
 	}
 	return s
 }
+// 这是一个好的主意
